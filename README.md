@@ -15,8 +15,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
     - [Useful resources](#useful-resources)
   - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -32,8 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Site](https://3-column-preview-card-component-main-glsarm.vercel.app/)
 
 ## My process
 
@@ -53,5 +50,5 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@genelorenzSarmiento0408](https://www.frontendmentor.io/profile/genelorenzSarmiento0408)
+- Twitter - [@Sarmientgene](https://www.twitter.com/Sarmientgene)
